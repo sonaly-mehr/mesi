@@ -76,7 +76,7 @@ const Sustainability = () => {
       </motion.h2>
       <div className="flex flex-col lg:flex-row gap-4 lg:gap-16 justify-between items-center">
         <div className="relative w-[340px] h-[340px] md:w-[450px] md:h-[350px] xl:w-[480px] xl:h-[480px] 2xl:w-[600px] 2xl:h-[600px] rounded-full overflow-hidden">
-          {/* <video
+          <video
             className=" absolute inset-0 w-full h-full object-cover object-right"
             src="/assets/sustainibilty.mp4"
             autoPlay
@@ -84,7 +84,7 @@ const Sustainability = () => {
             muted
           >
             Your browser does not support the video tag.
-          </video> */}
+          </video>
         </div>
         <div className="">
           <div className="relative">
